@@ -1,6 +1,5 @@
 #main package
 import streamlit as st 
-from nltk import nltkmodules
 
 #packages
 import pandas as pd
